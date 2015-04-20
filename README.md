@@ -1,5 +1,3 @@
-# PyTel
-
 ![](http://i.imgur.com/3VQGAwl.png)
 
 A pure python telegram-cli interface to send [Telegram](https://telegram.org/) messages.
