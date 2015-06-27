@@ -1,3 +1,5 @@
+#NOTE: Before trying to use this for anything, have a look at [Hogar](https://github.com/leonjza/hogar) first.
+
 ![](http://i.imgur.com/3VQGAwl.png)
 
 A pure python telegram-cli interface to send [Telegram](https://telegram.org/) messages.
